@@ -18,6 +18,7 @@ header {
 header h1 {
   margin: 5px 0;
   font-size: 3.2em;
+  border-bottom: 10px solid green;
 }
 
 header p {
