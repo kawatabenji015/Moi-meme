@@ -37,6 +37,7 @@ section {
   margin: 20px;
   padding: 20px;
   box-shadow: 0px 2px 6px rgba(6, 0, 0, 0.005);
+  border-radius: 20px;
 }
 
 h2 {
